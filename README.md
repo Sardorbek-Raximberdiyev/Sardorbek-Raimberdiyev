@@ -1,4 +1,8 @@
-<h3 align="center">Frontend Dasturchi</h3>
+# Sardorbek Raximberdiyev
+
+Frontend Dasturchi, Frontend dasturlshni 2022-yil fevral oyida boshlagan, xozirda JavaScriptni chuqur o'rganishni boshladi
+
+[Portfolio](https://srb-portfolio.netlify.app) | [Telegram](https://t.me/sardor_raximberdiyev) | [Email](mailto:sardorraximberdiyev@9gmail.com)
 
 
 - 🌱 Hozirda **HTML, CSS, JavaScript, Sass** ni o'rganyapman
