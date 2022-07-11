@@ -23,7 +23,7 @@ Frontend Dasturchi, Frontend dasturlshni 2022-yil fevral oyida boshlagan, xozird
 
 ## So'ngi loyihalar
 
-<img src="htpml"//www.frontendmetor.io/challenges/ecommerce-product-page-UPsZ9MJp6" alt="ecommerce product page" width="250"/>
+<img src="htpml://www.frontendmetor.io/challenges/ecommerce-product-page-UPsZ9MJp6" alt="ecommerce product page" width="250"/>
 
 ## Kontaktlar
 
