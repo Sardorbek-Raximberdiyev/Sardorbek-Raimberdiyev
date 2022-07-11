@@ -23,7 +23,11 @@ Frontend Dasturchi, Frontend dasturlshni 2022-yil fevral oyida boshlagan, xozird
 
 ## So'ngi loyihalar
 
-<img src="htpml://www.frontendmetor.io/challenges/ecommerce-product-page-UPsZ9MJp6" alt="ecommerce product page" width="250"/>
+| Preview  |  Ta'rif |
+|---|---|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/bognvsqd34ueowkompeh.jpg" alt="ecommerce product page" width="250"/> | <b>Ecommerce produc page</b>  |  Ecommerce produc pege Onlayn do'konning mahsulot haqida ma'lumot sahifasi |
+|  [Maket Manbasi](https://www.frontendmentor.io/challenges) |   <b>O'ziga xos jixatlari</b>: Savatchada maxsulot bor yo'qligiga moslashgan dropdown menyu rasmlar galareyasi, ligthbox |
+
 
 ## Kontaktlar
 
