@@ -25,7 +25,7 @@ Frontend Dasturchi, Frontend dasturlshni 2022-yil fevral oyida boshlagan, xozird
 
 | Preview  |  Ta'rif |
 |---|---|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/bognvsqd34ueowkompeh.jpg" alt="ecommerce product page" width="250"/> | <b>Ecommerce produc page</b>  |  Ecommerce produc pege Onlayn do'konning mahsulot haqida ma'lumot sahifasi |
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/bognvsqd34ueowkompeh.jpg" alt="ecommerce product page" width="250"/> | <b>Ecommerce produc page</b> <br> Ecommerce produc pege Onlayn do'konning mahsulot haqida ma'lumot sahifasi <br> <br> [Repo](https://www.frontendmentor.io/challenges) - [Netlify](https://srb-e-commerce.netlify.app) - Ketgazilgan vaqt 4 soat 45 daqiqa|
 |  [Maket Manbasi](https://www.frontendmentor.io/challenges) |   <b>O'ziga xos jixatlari</b>: Savatchada maxsulot bor yo'qligiga moslashgan dropdown menyu rasmlar galareyasi, ligthbox |
 
 
@@ -35,6 +35,9 @@ Frontend Dasturchi, Frontend dasturlshni 2022-yil fevral oyida boshlagan, xozird
 <a href="https://fb.com/sardor-raximberdiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sardor-raximberdiyev" height="30" width="40" /></a>
 <a href="https://instagram.com/raximberdiyev.sardor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raximberdiyev.sardor" height="30" width="40" /></a>
 </p>
+
+
+## GitHub statistikasi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sardorbek-raximberdiyev&show_icons=true&locale=en&layout=compact" alt="sardorbek-raximberdiyev" /></p>
 
