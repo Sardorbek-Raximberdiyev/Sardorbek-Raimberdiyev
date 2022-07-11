@@ -1,6 +1,6 @@
 # Sardorbek Raximberdiyev
 
-Frontend Dasturchi, Frontend dasturlshni 2022-yil fevral oyida boshlagan, xozirda JavaScriptni chuqur o'rganishni boshladi
+Frontend Dasturchi, Frontend dasturlashni 2022-yil fevral oyida boshlagan, xozirda JavaScriptni chuqur o'rganishni boshladi
 
 [Portfolio](https://srb-portfolio.netlify.app) | [Telegram](https://t.me/sardor_raximberdiyev) | [Email](mailto:sardorraximberdiyev@9gmail.com)
 
