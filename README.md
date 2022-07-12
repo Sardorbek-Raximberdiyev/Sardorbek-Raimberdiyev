@@ -30,7 +30,7 @@ Frontend Dasturchi, Frontend dasturlashni 2022-yil fevral oyida boshlagan, xozir
 
 | Preview  |  Ta'rif |
 |---|---|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/r57dwegyobrqigxhsj36.jpg" alt="ecommerce product page" width="250"/> | <b>Easybank landing page</b> <br> Onlayn bank uchun mobil ilovaning promo sahifasi <br> <br> [Repo](https://www.frontendmentor.io/challenges) - [Netlify](https://srb-easybank.netlify.app) - Ketgazilgan vaqt 2 soat |
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/r57dwegyobrqigxhsj36.jpg" alt="ecommerce product page" width="200" height="120"/> | <b>Easybank landing page</b> <br> Onlayn bank uchun mobil ilovaning promo sahifasi <br> <br> [Repo](https://www.frontendmentor.io/challenges) - [Netlify](https://srb-easybank.netlify.app) - Ketgazilgan vaqt 2 soat |
 |  [Maket Manbasi](https://www.frontendmentor.io/challenges) |   <b>O'ziga xos jixatlari</b>: Hero qismidagi rasmlar joylashuvi |
 
 
