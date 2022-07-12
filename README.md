@@ -38,7 +38,7 @@ Frontend Dasturchi, Frontend dasturlashni 2022-yil fevral oyida boshlagan, xozir
 ## Kontaktlar
 
 <p align="left">
-<a href="https://fb.com/sardor-raximberdiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sardor-raximberdiyev" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Sardor-Raximberdiyev/100076636657630/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sardor-raximberdiyev" height="30" width="40" /></a>
 <a href="https://instagram.com/raximberdiyev.sardor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raximberdiyev.sardor" height="30" width="40" /></a>
 </p>
 
